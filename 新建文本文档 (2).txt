@@ -1,0 +1,21 @@
+git config --global user.name "laitegou"
+git config --global user.email "825868510@qq.com"
+git clone https://github.com/laitegou/DEV.git
+
+
+
+825868510@qq.com
+yinweishewang1
+>auto
+
+
+git config --global user.name "jjkkk22"
+git config --global user.email "198086374@qq.com"
+git clone https://github.com/jjkkk22/dev.git
+
+
+https://github.com/ubic66666/dev.git
+
+git config --global user.name "ubic66666"
+git config --global user.email "454229402@qq.com"
+git clone https://github.com/ubic66666/dev.git
